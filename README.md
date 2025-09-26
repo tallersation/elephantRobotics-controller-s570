@@ -1,14 +1,16 @@
 # Coppelia Sim with myController S570
 
-```bash
 # Clone repository
+```bash
 git clone https://github.com/tallersation/elephantRobotics-controller-s570.git
+```
 
 # Install python package
+```bash
 pip install coppeliasim-zmqremoteapi-client tkinter
 ```
 
-```bash
 # Run the code
+```bash
 python3 main.py
 ```
