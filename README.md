@@ -2,7 +2,7 @@
 
 # Clone repository
 ```bash
-git clone https://github.com/tallersation/elephantRobotics-controller-s570.git
+git clone [https://github.com/tallersation/elephantRobotics-controller-s570.git](https://github.com/tallersation/elephantRobotics-controller-s570.git)
 ```
 
 # Install python package
