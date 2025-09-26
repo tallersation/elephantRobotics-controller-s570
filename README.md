@@ -6,7 +6,9 @@ git clone https://github.com/tallersation/elephantRobotics-controller-s570.git
 
 # Install python package
 pip install coppeliasim-zmqremoteapi-client tkinter
+```
 
+```bash
 # Run the code
 python3 main.py
 ```
